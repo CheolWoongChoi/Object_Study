@@ -1,0 +1,20 @@
+{
+  "name": "object_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "push": "git push os master",
+    "pull": "git pull os master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CheolWoongChoi/Object_Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CheolWoongChoi/Object_Study/issues"
+  },
+  "homepage": "https://github.com/CheolWoongChoi/Object_Study#readme"
+}
